@@ -1,0 +1,6 @@
+{
+  "require": {
+    "workerman/workerman": "v4.0.47",
+    "ext-pdo": "*"
+  }
+}
